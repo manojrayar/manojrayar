@@ -38,7 +38,7 @@
 
 <br/><br/>
 
-[![Mallikarjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojrayar&show_icons=true)](https://github.com/shivam0110)
+[![Mallikarjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojrayar&show_icons=true)](https://github.com/manojrayar)
 
 <br/>
 
