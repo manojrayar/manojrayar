@@ -70,7 +70,7 @@
 
 <a href="https://www.instagram.com/manojrayar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-manojrayar-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:mallikarjunrayar001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mallikarjunrayar001@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mallikarjunrayar001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mallikarjunrayar003@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
