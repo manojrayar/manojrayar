@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<a href="https://mallikarjunrayar.co.vu/"><img alt="Website" src="https://img.shields.io/badge/mallikarjunrayar.co.vu-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://manojrayar.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/badge/https://manojrayar.github.io/portfolio/-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/mallikarjun-rayar-04b638191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mallikarjun%20Rayar-blue?style=flat-square&logo=linkedin"></a>
 
